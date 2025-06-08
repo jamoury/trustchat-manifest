@@ -1,0 +1,21 @@
+{
+  "name": "TrustChat",
+  "short_name": "TrustChat",
+  "start_url": "/version-test",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://d8360884490d2d94fe2e11ad1c54ec6c.cdn.bubble.io/f1749153863454x643671715906279300/TrustChat192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://d8360884490d2d94fe2e11ad1c54ec6c.cdn.bubble.io/f1749153869283x928719113595654900/TrustChat512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
